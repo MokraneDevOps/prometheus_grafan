@@ -1,7 +1,3 @@
-global:
-  scrape_interval: 15s
-
-scrape_configs:
-  - job_name: 'node'
-    static_configs:
-      - targets: ['192.168.198.177:9100', '192.168.198.152:9100', '192.168.198.175:9100', '192.168.198.176:9100']
+version https://git-lfs.github.com/spec/v1
+oid sha256:3eb37e6c52bf96d17a57c633fab2e179057d537339c24d1a3e608f598dfbe788
+size 203
